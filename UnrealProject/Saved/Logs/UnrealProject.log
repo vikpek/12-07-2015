@@ -527,4 +527,96 @@ Localization Resource: (C:/Program Files/Epic Games/4.8/Engine/Content/Localizat
 [2015.07.12-11.31.57:453][144]LogInit: FAudioDevice initialized.
 [2015.07.12-11.31.57:487][144]LogWorld: Game class is 'FirstPersonGameMode_C'
 [2015.07.12-11.31.57:493][144]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2015.07.12-13.31.57
-[2015.07.12-11.31.57:493][144]LogActor:Warning: GameSession /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.GameSession_11 has natively added scene component(s), but none of them 
+[2015.07.12-11.31.57:493][144]LogActor:Warning: GameSession /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.GameSession_11 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.07.12-11.31.57:494][144]LogActor:Warning: GameNetworkManager /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.GameNetworkManager_11 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.07.12-11.31.57:494][144]LogWorld: Bringing up level for play took: 0.005439
+[2015.07.12-11.31.57:496][144]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.386
+[2015.07.12-11.32.09:475][524]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000004E8BCD60
+[2015.07.12-11.32.11:620][662]LogSavePackage: Save=88.575150ms
+[2015.07.12-11.32.11:620][662]LogSavePackage: Moving '../../../../../../Users/Viktor.Pekar/Documents/12-07-2015/UnrealProject/Saved/FirstPersonExampleMapE4663C2B46CE9CD9FCEC558B577BF8CE.tmp' to '../../../../../../Users/Viktor.Pekar/Documents/12-07-2015/UnrealProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2015.07.12-11.32.11:643][662]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.195
+[2015.07.12-11.34.26:399][910]LogEditorViewport: Clicking on Actor (LMB): Cube01_Blueprint_C (Big Cube)
+[2015.07.12-11.34.35:190][842]Cmd: DELETE
+[2015.07.12-11.34.35:190][842]Cmd: ACTOR DELETE
+[2015.07.12-11.34.35:192][842]LogEditorActor: Deleted Actor: Cube01_Blueprint_C
+[2015.07.12-11.34.35:225][842]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2015.07.12-11.34.35:817][912]LogEditorViewport: Clicking on Actor (LMB): Cube_Small_C (Cube_Small2)
+[2015.07.12-11.34.36:745][  8]Cmd: EDIT COPY
+[2015.07.12-11.34.36:930][ 28]Cmd: EDIT PASTE
+[2015.07.12-11.34.41:478][512]Cmd: EDIT COPY
+[2015.07.12-11.34.41:661][531]Cmd: EDIT PASTE
+[2015.07.12-11.34.45:724][960]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2015.07.12-11.34.51:637][519]Cmd: TRANSACTION UNDO
+[2015.07.12-11.34.51:637][519]LogEditorTransaction: Undo Move Actors
+[2015.07.12-11.34.58:024][ 55]LogEditorViewport: Clicking on Actor (LMB): Cube_Small_C (Cube_Small4)
+[2015.07.12-11.34.59:896][236]LogEditorViewport: Clicking on Actor (CTRL LMB): Cube_Small_C (Cube_Small3)
+[2015.07.12-11.35.01:721][407]LogEditorViewport: Clicking on Actor (CTRL LMB): Cube_Small_C (Cube_Small2)
+[2015.07.12-11.35.13:850][183]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2015.07.12-11.35.13:851][183]PIE: New page: PIE session: FirstPersonExampleMap (Jul 12, 2015, 3:35:13 PM)
+[2015.07.12-11.35.13:853][183]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2015.07.12-11.35.13:867][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013658s)
+[2015.07.12-11.35.13:867][183]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2015.07.12-11.35.13:868][183]LogPlayLevel: PIE: World Init took: (0.001210s)
+[2015.07.12-11.35.13:868][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.015160s)
+[2015.07.12-11.35.13:905][183]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.07.12-11.35.13:914][183]LogInit: FAudioDevice initialized.
+[2015.07.12-11.35.13:951][183]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2015.07.12-11.35.13:958][183]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2015.07.12-13.35.13
+[2015.07.12-11.35.13:958][183]LogActor:Warning: GameSession /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.GameSession_12 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.07.12-11.35.13:958][183]LogActor:Warning: GameNetworkManager /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.GameNetworkManager_12 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.07.12-11.35.13:959][183]LogWorld: Bringing up level for play took: 0.005738
+[2015.07.12-11.35.13:960][183]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.074
+[2015.07.12-11.35.29:239][886]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000011626DE0
+[2015.07.12-11.35.39:436][846]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2015.07.12-11.35.39:437][846]PIE: New page: PIE session: FirstPersonExampleMap (Jul 12, 2015, 3:35:39 PM)
+[2015.07.12-11.35.39:440][846]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2015.07.12-11.35.39:453][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012532s)
+[2015.07.12-11.35.39:453][846]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2015.07.12-11.35.39:454][846]LogPlayLevel: PIE: World Init took: (0.001207s)
+[2015.07.12-11.35.39:454][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014037s)
+[2015.07.12-11.35.39:486][846]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.07.12-11.35.39:494][846]LogInit: FAudioDevice initialized.
+[2015.07.12-11.35.39:530][846]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2015.07.12-11.35.39:537][846]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2015.07.12-13.35.39
+[2015.07.12-11.35.39:537][846]LogActor:Warning: GameSession /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.GameSession_13 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.07.12-11.35.39:537][846]LogActor:Warning: GameNetworkManager /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.GameNetworkManager_13 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.07.12-11.35.39:538][846]LogWorld: Bringing up level for play took: 0.005511
+[2015.07.12-11.35.39:539][846]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.348
+[2015.07.12-11.35.45:045][443]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000013669620
+[2015.07.12-11.36.07:173][728]LogSavePackage: Save=89.651985ms
+[2015.07.12-11.36.07:174][728]LogSavePackage: Moving '../../../../../../Users/Viktor.Pekar/Documents/12-07-2015/UnrealProject/Saved/FirstPersonExampleMap69772070442D139DC49035A4D95C6F52.tmp' to '../../../../../../Users/Viktor.Pekar/Documents/12-07-2015/UnrealProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2015.07.12-11.36.07:198][728]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.208
+[2015.07.12-11.36.07:217][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Cube_Small" FILE="../../../../../../Users/Viktor.Pekar/Documents/12-07-2015/UnrealProject/Content/Assets/Cube_Small.uasset" SILENT=true
+[2015.07.12-11.36.07:245][728]LogSavePackage: Save=21.492880ms
+[2015.07.12-11.36.07:245][728]LogSavePackage: Moving '../../../../../../Users/Viktor.Pekar/Documents/12-07-2015/UnrealProject/Saved/Cube_SmallA32E080C47F9C9B2DDA53A8111916429.tmp' to '../../../../../../Users/Viktor.Pekar/Documents/12-07-2015/UnrealProject/Content/Assets/Cube_Small.uasset'
+[2015.07.12-11.36.10:649][942]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2015.07.12-11.36.10:649][942]PIE: New page: PIE session: FirstPersonExampleMap (Jul 12, 2015, 3:36:10 PM)
+[2015.07.12-11.36.10:656][942]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2015.07.12-11.36.10:669][942]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013197s)
+[2015.07.12-11.36.10:670][942]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2015.07.12-11.36.10:671][942]LogPlayLevel: PIE: World Init took: (0.001360s)
+[2015.07.12-11.36.10:671][942]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.015067s)
+[2015.07.12-11.36.10:705][942]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000001366A5C0
+[2015.07.12-11.36.10:705][942]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.07.12-11.36.10:714][942]LogInit: FAudioDevice initialized.
+[2015.07.12-11.36.10:750][942]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2015.07.12-11.36.10:756][942]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2015.07.12-13.36.10
+[2015.07.12-11.36.10:756][942]LogActor:Warning: GameSession /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.GameSession_14 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.07.12-11.36.10:757][942]LogActor:Warning: GameNetworkManager /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.GameNetworkManager_14 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.07.12-11.36.10:757][942]LogWorld: Bringing up level for play took: 0.005372
+[2015.07.12-11.36.10:759][942]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.87
+[2015.07.12-11.36.17:282][673]Set new viewmode: Wireframe
+[2015.07.12-11.36.18:618][817]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002C1CD080
+[2015.07.12-11.36.42:352][150]LogSavePackage: Save=89.173714ms
+[2015.07.12-11.36.42:352][150]LogSavePackage: Moving '../../../../../../Users/Viktor.Pekar/Documents/12-07-2015/UnrealProject/Saved/FirstPersonExampleMapCDB5BB2840D1AC2C4CA38F80A89A3B87.tmp' to '../../../../../../Users/Viktor.Pekar/Documents/12-07-2015/UnrealProject/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2015.07.12-11.36.42:373][150]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.195
+[2015.07.12-11.36.42:393][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Cube_Small" FILE="../../../../../../Users/Viktor.Pekar/Documents/12-07-2015/UnrealProject/Content/Assets/Cube_Small.uasset" SILENT=true
+[2015.07.12-11.36.42:417][150]LogSavePackage: Save=21.391476ms
+[2015.07.12-11.36.42:417][150]LogSavePackage: Moving '../../../../../../Users/Viktor.Pekar/Documents/12-07-2015/UnrealProject/Saved/Cube_Small615979674005B04F532792B8BBB6EE0F.tmp' to '../../../../../../Users/Viktor.Pekar/Documents/12-07-2015/UnrealProject/Content/Assets/Cube_Small.uasset'
+[2015.07.12-11.36.45:256][325]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2015.07.12-11.36.45:256][325]PIE: New page: PIE session: FirstPersonExampleMap (Jul 12, 2015, 3:36:45 PM)
+[2015.07.12-11.36.45:263][325]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2015.07.12-11.36.45:276][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013007s)
+[2015.07.12-11.36.45:277][325]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2015.07.12-11.36.45:277][325]LogPlayLevel: PIE: World Init took: (0.001254s)
+[2015.07.12-11.36.45:278][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0
